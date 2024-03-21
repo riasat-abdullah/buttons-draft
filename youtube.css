@@ -1,0 +1,33 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+li{
+    list-style: none;
+    text-decoration: none;
+}
+.big{
+    font-size: 30px;
+}
+.fst{
+    display: flex;
+    align-items: center;
+    gap: 30px;
+    margin-bottom: 40px;
+
+}
+.snd{
+    display: flex;
+    align-items: center;
+    gap: 30px;
+    margin-bottom: 40px;
+
+}
+.trd{
+    display: flex;
+    align-items: center;
+    gap: 30px;
+    margin-bottom: 40px;
+
+}

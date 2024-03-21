@@ -1,0 +1,190 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;700&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    padding: 30px;
+    height: 30px;
+    background-color: #24252a;
+    margin-bottom: 100px;
+}
+
+ul{
+    font-family: "Montserrat", sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: end;
+    text-decoration: none;
+    gap: 10px;
+}
+a{
+    text-decoration: none;
+    color: white;
+    margin: 20px;
+    
+}
+
+button{
+    font-family: "Montserrat", sans-serif;
+    border: 2px solid black;
+    border-radius: 10px;
+    color: black;
+    background-color: red;
+    padding: 10px 20px;
+    text-decoration: none;
+}
+
+.nav2{
+    font-family: "Montserrat", sans-serif;
+    display: flex;
+    justify-content: center;
+
+    align-items: center;
+    text-decoration: none;
+    gap: 10px;
+}
+.child1{
+    margin-left: 300px;
+}
+.child2{
+    margin-left: 500px;
+}
+
+
+.nav3{
+    font-family: "Montserrat", sans-serif;
+    display: flex;
+    justify-content:left;
+
+    align-items: center;
+    text-decoration: none;
+    gap: 10px;
+}
+
+.button-list{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    list-style: none;
+    text-decoration: none;
+}
+.first3{
+    display: flex;
+    align-items: center;
+}
+
+.mid2{
+    display: flex; 
+}
+
+.last3{
+    display: flex;  
+}
+.uber{
+    font-family: "Montserrat", sans-serif;
+    border: 2px solid black;
+    border-radius: 0px;
+    background-color: black;
+    margin: 30px;
+    padding: 10,20;
+    
+}
+
+.amazon{
+    font-family: "Montserrat", sans-serif;
+    border: 2px solid black;
+    color: rgb(0, 0, 0);
+    border-radius: 50px;
+    background-color: yellow;
+    margin: 30px;
+    padding: 10,30;
+}
+.amazon a{
+    color: black;
+}
+
+.github{
+    font-family: "Montserrat", sans-serif;
+    border: 2px solid black;
+    border-radius: 10px;
+    background-color: rgb(38, 175, 38);
+    margin: 30px;
+    padding: 5,10;
+    height: 50px;
+}
+
+.linkedin{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+.apply{
+    background-color: blue;
+    border-radius: 80px;
+}
+.save{
+    background-color: white;
+    color: black;
+    border-radius: 80px;
+
+}
+.save a{
+    color: black;
+}
+.bootstrap{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+.start{
+    background-color: purple;
+    border-radius: 0px;
+
+
+}
+
+.last3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+  
+}
+.daraz{
+    background-color: purple; 
+    border-radius: 0px;
+    
+    padding: 10px 20px;
+
+}
+.register{
+    background-color: red;
+    padding: 3px 6px; 
+    border-radius: 0px;
+}
+.bikroy{
+    background-color: lightblue;
+    padding: 10px 20px ;
+
+}
+.post{
+    background-color: yellow; 
+    border-radius: 0px;
+    padding: 3px 6px;
+}
+.post a{
+    color: black;
+}
+.last3 .sample{
+    background-color: rgb(51, 46, 78)
+    border-radius: 80px;
+}
+.last{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}

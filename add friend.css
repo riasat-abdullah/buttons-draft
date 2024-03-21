@@ -1,0 +1,62 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+button{
+    padding: 10px 20px;
+    height: 20;
+    width: 30;
+    background-color: blue
+}
+li{
+    list-style: none;
+    text-decoration: none;
+}
+.oliver{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    justify-content: left;
+
+}
+.profile{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    margin-right: 520px;
+}
+img{
+    width: 200px; 
+    height: 200px; 
+    border-radius: 50%; 
+    overflow: hidden;
+}
+.mimi{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    justify-content: left;
+}
+.mprofile{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    margin-right: 500px;
+}
+.rex{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    justify-content: left;
+}
+.rprofile{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    margin-right: 500px;
+}
